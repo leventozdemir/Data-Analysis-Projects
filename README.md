@@ -8,6 +8,14 @@
   
   **-Code On Kaggle:** https://www.kaggle.com/leventoz/ad-click-prediction-dt
   
+  
+  
+ ## [- Who Get The Job (Turkish):](https://github.com/leventozdemir/Data-Analysis-Projects/tree/main/Who%20Get%20The%20Job%20(Turkish))
+ 
+  **-Dataset Source:** https://www.kaggle.com/c/datathon-who-gets-the-job
+  
+  **-Code On Kaggle:** https://www.kaggle.com/leventoz/who-gets-the-job-veri-analizi-yetenek-hari
+  
 
 
 

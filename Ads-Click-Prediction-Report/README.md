@@ -1,4 +1,6 @@
-# Ads-Click-Prediction-Report
+# Ads-Click-Prediction-Report:
+
+<img src="https://www.fatguymedia.com/wp-content/uploads/2018/03/pay-per-click-marketing00000000.jpg" width=900>
 
 - DataSet: Ad Click Prediction
 - Problem: Classification Problem
